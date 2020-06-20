@@ -1,5 +1,5 @@
 # Getting-and-Cleaning-Data-Assignment
-Assignment for Coursera course - Getting and Cleaning Data
+
 Submission for Coursera course - Getting and Cleaning Data Assignment
 
 1. run_analysis.R performs the data loading, data cleaning, data manipulation and then finalize the data in the Final.txt file
